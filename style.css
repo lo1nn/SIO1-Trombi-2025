@@ -38,7 +38,7 @@
 
 /* Texte animé au-dessus de l'élément #KUS */
 #KUS::before {
-    content: "✨ Bienvenue chez KUS ✨";
+    content: "✨ Bienvenue chez Yekzan ✨";
     display: block;
     font-size: 1.5em;
     margin-bottom: 10px;
